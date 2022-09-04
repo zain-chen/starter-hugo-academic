@@ -1,6 +1,7 @@
 ---
 title: "Zhiyuan Chen "
 role: 陈致远
+avatar_filename: 头像2.jpg
 bio: My research interests include high-dimensional statistics and machine learning.
 interests:
   - High-Dimensional Statistics
@@ -26,7 +27,7 @@ education:
     - course: BSc in Statistics
       institution: Beijing Normal University
       year: 2023
-email: ""
+email: zainchen@mail.bnu.edu.cn
 superuser: true
 highlight_name: true
 ---
