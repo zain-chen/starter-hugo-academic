@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Chen "
 role: 陈致远
-avatar_filename: 头像2.jpg
+avatar_filename: assets/media/头像2.jpg
 bio: My research interests include high-dimensional statistics and machine learning.
 interests:
   - High-Dimensional Statistics
