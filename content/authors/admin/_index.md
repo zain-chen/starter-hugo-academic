@@ -1,6 +1,6 @@
 ---
 title: "Zhiyuan Chen "
-role: student in stat
+role: 陈致远
 bio: My research interests include high-dimensional statistics and machine learning.
 interests:
   - High-Dimensional Statistics
